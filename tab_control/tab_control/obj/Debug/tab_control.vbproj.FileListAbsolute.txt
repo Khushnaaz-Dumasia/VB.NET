@@ -1,0 +1,12 @@
+D:\VB.NET\tab_control\tab_control\bin\Debug\tab_control.exe.config
+D:\VB.NET\tab_control\tab_control\bin\Debug\tab_control.exe
+D:\VB.NET\tab_control\tab_control\bin\Debug\tab_control.pdb
+D:\VB.NET\tab_control\tab_control\bin\Debug\tab_control.xml
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.vbproj.AssemblyReference.cache
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.Form1.resources
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.Resources.resources
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.vbproj.GenerateResource.cache
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.vbproj.CoreCompileInputs.cache
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.exe
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.xml
+D:\VB.NET\tab_control\tab_control\obj\Debug\tab_control.pdb

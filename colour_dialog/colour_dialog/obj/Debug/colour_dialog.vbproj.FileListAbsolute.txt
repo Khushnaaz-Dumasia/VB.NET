@@ -1,0 +1,12 @@
+D:\VB.NET\colour_dialog\colour_dialog\bin\Debug\colour_dialog.exe.config
+D:\VB.NET\colour_dialog\colour_dialog\bin\Debug\colour_dialog.exe
+D:\VB.NET\colour_dialog\colour_dialog\bin\Debug\colour_dialog.pdb
+D:\VB.NET\colour_dialog\colour_dialog\bin\Debug\colour_dialog.xml
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.vbproj.AssemblyReference.cache
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.Form1.resources
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.Resources.resources
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.vbproj.GenerateResource.cache
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.vbproj.CoreCompileInputs.cache
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.exe
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.xml
+D:\VB.NET\colour_dialog\colour_dialog\obj\Debug\colour_dialog.pdb

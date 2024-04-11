@@ -1,0 +1,12 @@
+D:\VB.NET\practice1\obj\Debug\practice1.vbproj.AssemblyReference.cache
+D:\VB.NET\practice1\obj\Debug\practice1.Form1.resources
+D:\VB.NET\practice1\obj\Debug\practice1.Resources.resources
+D:\VB.NET\practice1\obj\Debug\practice1.vbproj.GenerateResource.cache
+D:\VB.NET\practice1\obj\Debug\practice1.vbproj.CoreCompileInputs.cache
+D:\VB.NET\practice1\bin\Debug\practice1.exe.config
+D:\VB.NET\practice1\bin\Debug\practice1.exe
+D:\VB.NET\practice1\bin\Debug\practice1.pdb
+D:\VB.NET\practice1\bin\Debug\practice1.xml
+D:\VB.NET\practice1\obj\Debug\practice1.exe
+D:\VB.NET\practice1\obj\Debug\practice1.xml
+D:\VB.NET\practice1\obj\Debug\practice1.pdb

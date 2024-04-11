@@ -1,0 +1,12 @@
+D:\VB.NET\connection\connection\bin\Debug\connection.exe.config
+D:\VB.NET\connection\connection\bin\Debug\connection.exe
+D:\VB.NET\connection\connection\bin\Debug\connection.pdb
+D:\VB.NET\connection\connection\bin\Debug\connection.xml
+D:\VB.NET\connection\connection\obj\Debug\connection.vbproj.AssemblyReference.cache
+D:\VB.NET\connection\connection\obj\Debug\connection.Form1.resources
+D:\VB.NET\connection\connection\obj\Debug\connection.Resources.resources
+D:\VB.NET\connection\connection\obj\Debug\connection.vbproj.GenerateResource.cache
+D:\VB.NET\connection\connection\obj\Debug\connection.vbproj.CoreCompileInputs.cache
+D:\VB.NET\connection\connection\obj\Debug\connection.exe
+D:\VB.NET\connection\connection\obj\Debug\connection.xml
+D:\VB.NET\connection\connection\obj\Debug\connection.pdb

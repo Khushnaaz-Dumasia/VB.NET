@@ -1,0 +1,13 @@
+D:\VB.NET\electronics\bin\Debug\electronics.exe.config
+D:\VB.NET\electronics\bin\Debug\electronics.exe
+D:\VB.NET\electronics\bin\Debug\electronics.pdb
+D:\VB.NET\electronics\bin\Debug\electronics.xml
+D:\VB.NET\electronics\obj\Debug\electronics.vbproj.AssemblyReference.cache
+D:\VB.NET\electronics\obj\Debug\electronics.Form1.resources
+D:\VB.NET\electronics\obj\Debug\electronics.Form2.resources
+D:\VB.NET\electronics\obj\Debug\electronics.Resources.resources
+D:\VB.NET\electronics\obj\Debug\electronics.vbproj.GenerateResource.cache
+D:\VB.NET\electronics\obj\Debug\electronics.vbproj.CoreCompileInputs.cache
+D:\VB.NET\electronics\obj\Debug\electronics.exe
+D:\VB.NET\electronics\obj\Debug\electronics.xml
+D:\VB.NET\electronics\obj\Debug\electronics.pdb
